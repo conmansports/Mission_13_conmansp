@@ -33,12 +33,6 @@ function App() {
       </Routes>
     </>
   );
-  // <div className="App">
-  //   <TopBanner saying="Joel Hiltons Movie Library" />
-  //   <MovieList />
-  //   <Podcast />
-  //   <Home />
-  // </div>;
 }
 
 export default App;
